@@ -1,5 +1,5 @@
-# Hacktoberfest
-this is a hacktoberfest repository
+# hacktoberfest
+This is a hacktoberfest repository
 
-## Author
-[Dickson](http://bit.ly/deekson)
+This is a hacktoberfest repository by JoyRouzzie
+Rouzzie is an attendee at hacktober fest4
