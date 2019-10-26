@@ -1,4 +1,4 @@
-# hacktoberfest
+# Hacktoberfest
 this is a hacktoberfest repository
 
 ## Author
